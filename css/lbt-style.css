@@ -1,0 +1,44 @@
+
+
+/**** Main Blog Transporter Style Sheet ****/
+
+.lbt-main {
+        display: flex;
+}
+
+.lbt-main-form {
+    max-width: 50%;
+    width: 35%;
+    height: 1500px;
+    padding-right: 20px;
+    border-right: 3px solid #333;
+}
+
+.main-inputs { 
+    width: 95%;
+}
+
+#blog-contents {
+    max-width: 50%;
+    padding-left: 20px;
+}
+
+.look-right {
+    border-top: 4px solid #333;
+    display: block;
+    width: 100%;
+    font-size: 18px;
+    padding: 15px 0;
+}
+
+.lbt-image-display {
+    padding: 10px 2px;
+    border: 1px solid #333;
+    margin-bottom: 5px;
+    
+}
+
+#blog-contents > h3 {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #333;
+}
